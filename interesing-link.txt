@@ -1,1 +1,5 @@
+https://crowcpp.org/master/getting_started/a_simple_webpage/ - framework for web
+https://github.com/ipkn/crow -> examples of crowncpp library
+
+sfml -> framework for games
 
